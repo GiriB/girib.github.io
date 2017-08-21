@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+
+# Setup
+title:               GiriB
+tagline:             'A Techinal blog, with somethings not :) '
+description:         ''
+url:                 http://girib.github.io
+baseurl:             ''
+paginate:            5
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+# About/contact
+author:
+  name:              Giri Gaurav Bhatnagar
+  url:               https://twitter.com/giri_gb
+  email:             giri1gb@gmail.com
+
+# Custom vars
+version:             1.0.0
