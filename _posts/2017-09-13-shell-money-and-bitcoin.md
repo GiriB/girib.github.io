@@ -6,7 +6,7 @@ date: 2017-09-13 10-50-00 +0530
 
 Shell Money is the use of sea shells as way of exchange, serving the purpose as the modern money that we have today. It is known to have been used across continents -  America, Asia, Africa and Australia. But how can something as commonly available as a sea shell used as currency? 
 
-Well, in olden times, the mode of transportations were not so well developed. Many people living away from the coasts - in the middle of the mainland would not ever see a coast in their lives! ; sea shells were a rarity. Moreover, the process of finding the shells and then grounding them to required size and shape was laboriuos. Since the process was _difficult_, the value of the currency was maintained. This is called a _Proof Of Work System_.
+Well, in olden times, the mode of transportations were not so well developed. Many people living away from the coasts - in the middle of the mainland would not ever see a coast in their lives! ; sea shells were a rarity. Moreover, the process of finding the shells and then grounding them to required size and shape was laboriuos. Since the process was _difficult_, the value of the currency was maintained. This is called a [Proof Of Work System](https://en.wikipedia.org/wiki/Proof-of-work_system).
 
  A _Proof of Work_ is a piece of data that is 
 - costly (time consuming / space consuming) to produce
