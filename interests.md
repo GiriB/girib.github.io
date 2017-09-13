@@ -14,9 +14,6 @@ Find me at [goodreads](https://www.goodreads.com/user/show/68522109-giri-bhatnag
 * The Alchemist - Paulo Coelho
 * The Diary Of A Young Girl - Anne Frank 
 
-## TV Series  
-* Game Of Thrones
-
 ## Movies 
 Find me at [IMDB](http://www.imdb.com/user/ur51235581/). Few of my favourites: 
 
@@ -24,6 +21,7 @@ Find me at [IMDB](http://www.imdb.com/user/ur51235581/). Few of my favourites:
 * Dunkirk 
 * Interstellar
 * Life Is Beautiful
+* Grave of the fireflies 
 
 ## Animes 
 * Naruto 
